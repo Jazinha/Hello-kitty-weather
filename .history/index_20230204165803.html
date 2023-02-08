@@ -1,0 +1,35 @@
+<!DOCTYPE html> 
+<html>
+    <head>
+        <title>Hello-Weather!</title> 
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="style.css"> 
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Itim&family=Lilita+One&display=swap" rel="stylesheet">
+    </head>
+    <body>
+        <div class="container"> 
+            <div id="home" class="flex-column flex-center"></div> 
+            <h1>HELLO-WEATHER!</h1> 
+            <p>Hello, type in the city you want to travel to!</p> 
+            <div id="content-left" class="col-md-3">
+                <form>
+                    <label for="search-city">Search for a City:</label>
+                    <div class="form-row">
+                        <input id="search-city" class="form-control" name="city" value="Austin"></input>
+                        <!-- fontawesome magnifying glass -->
+                        <button id="search-button" class="btn btn-primary" type="submit"></button>
+                    </div>
+                </form>
+                <div id="search-error"></div>
+                <!-- list of prior searched cities -->
+                <ul id="city-results" class="list-group mt-4"></ul>
+                <!-- clear storage button -->
+                <a id="clear-storage" href="#"></a>    
+            </div>
+            <a href="forecast.html" class="btn">Go! </a></div> 
+        </div> 
+    
+    </body>
+</html>

@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(75, 202, 230); 
+    font-size: 25px; 
+    font-family: 'Itim', cursive;;
+}
+
+.container {
+    text-align: center; 
+    justify-content: center; 
+} 
+
+h1 {
+    font-size: 120px; 
+    font-family: 'Lilita One', cursive; 
+    color: rgb(202, 10, 10); 
+    -webkit-text-stroke: .5px black; 
+}
+
+#initial {
+    font-family: 'Lilita One', cursive; 
+    width: 190px;
+} 
+
+.btn {
+    border: 0;
+    padding: 5px 10px;
+    font-size: 20px;
+    background-color:rgb(202, 10, 10); 
+    width: 80px;
+    border-radius: 20px;
+    color: #ffffff;
+    text-align: center; 
+    text-decoration: none;
+}  
+
+
+.btn:hover {
+    background-color: rgb(217, 75, 98);
+  }

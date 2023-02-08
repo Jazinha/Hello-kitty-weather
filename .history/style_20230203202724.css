@@ -1,0 +1,11 @@
+.container {
+    text-align: center; 
+    justify-content: center;
+} 
+
+h1 {
+    font-size: 120px; 
+    font-family: 'Lilita One', cursive; 
+    color: red;
+
+}
