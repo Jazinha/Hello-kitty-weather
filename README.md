@@ -1,6 +1,7 @@
 # Hello-kitty-weather
 
-##Description
+##Description 
+
 A cute Hello Kitty Weather app, that displays a 5 day forecast of any city you type in. 
 
 ## User Story 
