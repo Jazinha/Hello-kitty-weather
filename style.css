@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(75, 202, 230); 
+    background-color: #8a7ec6; 
     font-size: 25px; 
     font-family: 'Itim', cursive;; 
 }
@@ -11,11 +11,12 @@ body {
 } 
 
 h1 {
-    font-size: 120px; 
+    font-size: 120px;  
     font-family: 'Lilita One', cursive; 
-    color: rgb(202, 10, 10); 
-    -webkit-text-stroke: .5px black; 
-}
+    color: rgb(222 61 149); 
+    -webkit-text-stroke: .5px black;  
+    background-color: #8a7ec6;
+}  
 
 #initial {
     font-family: 'Lilita One', cursive; 
@@ -26,13 +27,13 @@ h1 {
 } 
 
 .btn {
-    background-color:rgb(202, 10, 10); 
+    background-color:rgb(222 61 149); 
     text-decoration: none;
 }  
 
 
 .btn:hover {
-    background-color: rgb(217, 75, 98);
+    background-color: rgb(222 61 149);
   } 
 
 
@@ -42,6 +43,15 @@ h1 {
   } 
 
 #search-btn {
-    background-color:rgb(202, 10, 10); 
+    background-color:rgb(222 61 149); 
     text-decoration: none;
+} 
+
+.list-group-item-info {
+    color: #c624a8;
+    background-color: #42d85563;
+} 
+
+#search {
+    margin-top: 20px;
 }
