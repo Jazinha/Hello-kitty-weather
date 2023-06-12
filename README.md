@@ -23,4 +23,4 @@ THEN I am again presented with current and future conditions for that city
 ![image](https://github.com/Jazinha/Hello-kitty-weather/assets/117381175/aacb3efb-0722-418a-a62e-27d79ad342b9)
 
 ## Deployment Link 
- jazinha.github.io.
+https://jazinha.github.io/Hello-kitty-weather/ 
